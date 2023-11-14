@@ -4,6 +4,7 @@ Using <span style="color:teal">Teal</span> color palette.
 <br/>
 
 ![image](screenshots/s1.png)
+<br/>
 ![image](screenshots/s0.png)
 
 <br/>
