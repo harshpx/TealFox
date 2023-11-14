@@ -22,4 +22,4 @@ Using <span style="color:teal">Teal</span> color palette.
 3. Create an folder named `chrome` into this directory (if not already exists).
 4. Copy all the repo contents into `chrome` folder.
 5. Make all the customizations you want.
-6.Enjoy!
+6. 6.Enjoy!
